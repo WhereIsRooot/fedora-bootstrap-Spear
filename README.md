@@ -1,8 +1,9 @@
 # Spear workspace 
 /Simple and clean/
-This is my personal Bash script that automates the boring setup routine.
+
 
 # What does it do?
+This is my personal Bash script that automates the boring setup routine.
 
 Nukes all the useless bloat icons from the GNOME app grid that nobody ever clicks.
 
