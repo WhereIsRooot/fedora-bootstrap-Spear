@@ -7,7 +7,7 @@ This is my personal Bash script that automates the boring setup routine.
 
 *Nukes all the useless bloat icons from the GNOME app grid that nobody ever clicks.
 
-*Installs essential dev tools for compiling, Docker, and optionally Freesm Launcher + Lutris (yes, I nuked its extra icons too—trust me, that was a pain in the ass).
+*Installs essential dev tools for compiling, podman, and optionally Freesm Launcher + Lutris (yes, I nuked its extra icons too—trust me, that was a pain in the ass).
 
 *Applies a clean, minimal theme (soft total dark) and sets up the wallpaper.
 
