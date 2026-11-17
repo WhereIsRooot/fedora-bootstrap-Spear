@@ -1,6 +1,6 @@
 # Spear workspace 
 /Simple and clean * For Fedora\
-Fastfetch_and_ip_censor.png
+![theme]Fastfetch_and_ip_censor.png
 
 # What does it do?
 This is my personal Bash script that automates the boring setup routine.
