@@ -1,7 +1,7 @@
 # Spear workspace 
 /Simple and clean * For Fedora\
 ![theme](Fastfetch_and_ip_censor.png)
-
+![mainmenu](main_menu.png)
 # What does it do?
 This is my personal Bash script that automates the boring setup routine.
 
